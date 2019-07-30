@@ -1,0 +1,21 @@
+{
+  "name": "wikipedia-airports-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js --ext js",
+    "production": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cryptezis-team",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "tress": "^1.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
