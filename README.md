@@ -1,4 +1,4 @@
-This is simple parser of all international airports on Earth. Uses cheerio package for accessing DOM to get data about themm like thier location, longitude and latitude in decimal degrees format
+This is simple parser of all international airports on Earth. Uses cheerio package for accessing DOM to get data about them like their location, longitude and latitude in decimal degrees format
 
 # Setup
 
